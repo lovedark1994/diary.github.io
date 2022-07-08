@@ -37,3 +37,8 @@ html, body, canvas {
 }
 
 
+@font-face {
+	font-family: 'notoseriftc-black';
+	src: url('fonts/notoseriftc-black.otf') format('opentype');
+}
+
