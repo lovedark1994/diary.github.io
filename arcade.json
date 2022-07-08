@@ -1,0 +1,29 @@
+{
+	"name": "日記",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "",
+	"unique-id": "1p1uz5tofot",
+	"viewport-width": 540,
+	"viewport-height": 880,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "portrait",
+	"c2version": "244",
+	"c3version": "r293.3",
+	"ife": false,
+	"used-plugins": [
+		"AJAX",
+		"Arr",
+		"Browser",
+		"LocalStorage",
+		"Text",
+		"Sprite",
+		"Touch",
+		"Date"
+	],
+	"used-behaviors": [
+		"Tween"
+	]
+}
